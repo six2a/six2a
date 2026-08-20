@@ -18,14 +18,14 @@
 │ Identity: six2a                 │
 │ Role: System Admin + Pentester  │
 │ Status: Always learning         │
-│ Passion: Breaking systems (ética│
-│ Location: 🇪🇸 Españistán        │
+│ Passion: Breaking systems       │
+│                                 │
 └─────────────────────────────────┘
 ```
 
 Soy un apasionado de la **seguridad informática** y la **administración de sistemas**. Mi especialidad es encontrar vulnerabilidades antes de que los atacantes malintencionados lo hagan. 
 
-> *"Know yourself and your enemy. In a hundred battles, you will never be defeated."* - Sun Tzu
+
 
 ---
 
@@ -77,21 +77,6 @@ Grado Superior en Administración de Sistemas Informáticos en Red
 
 ---
 
-## 🎯 Filosofía de Trabajo
-
-```
-┌────────────────────────────────────────┐
-│ PRINCIPIOS ÉTICOS DEL HACKING         │
-├────────────────────────────────────────┤
-│ ✓ Siempre obtener permiso explícito   │
-│ ✓ Proteger la privacidad de datos     │
-│ ✓ Reportar responsablemente           │
-│ ✓ Educación continua                  │
-│ ✓ Defender a los menos protegidos     │
-└────────────────────────────────────────┘
-```
-
----
 
 ## 🚀 Proyectos & Laboratorios
 
@@ -147,14 +132,6 @@ PRÓXIMOS OBJETIVOS:
 
 ---
 
-## 💭 Filosofía
-
-> *"La seguridad no es un destino, es un viaje. Cada día aprendes algo nuevo sobre cómo proteger los sistemas."*
-
-Mi objetivo es ser un profesional de seguridad integral: comprender tanto los sistemas que protejo como las técnicas que usan los atacantes para vulnerarlos.
-
----
-
 ## 📚 Recursos Recomendados
 
 - [HackTheBox](https://www.hackthebox.com) - Plataforma de laboratorios
@@ -164,30 +141,7 @@ Mi objetivo es ser un profesional de seguridad integral: comprender tanto los si
 
 ---
 
-## ⚡ Fun Facts
 
-```
-while (true) {
-    learn();
-    test();
-    improve();
-    repeat();
-}
-```
-
-- 🔍 Nerd de la ciberseguridad
-- 🎮 CTFs y HackTheBox en mi tiempo libre
-- 🐧 Linux user desde hace [error: datos no disponibles]
-- 🖥️ Virtualizo TODOs mis laboratorios
-- 🔐 Porque la paranoia es profesional en este campo
-
----
-
-<div align="center">
-
-### 🛡️ "Stay Secure, Stay Ethical" 🛡️
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=six2a)
 
 *Last Updated: 2024 | Always Growing*
 
